@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Web Dev**: React, Flask 
 - **Cloud and Other Technologies**: AWS, Git
 
-### Find me Online
+### LinkedIn
   <a href="https://www.linkedin.com/in/connorwilkinson11">
     <img align="left" alt="lyuyangh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a><br/>
